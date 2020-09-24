@@ -1,3 +1,5 @@
+<?php
+
 function addSum($a) {
     $res = $a+=3;
 
