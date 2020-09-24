@@ -15,4 +15,9 @@ function restFunc($a) {
 function multiplyNumb($a) {
     return $a *=2;
 }
+
+function divideNum($a) {
+    return $a /= 2;
+}
+
 addSum(2);
