@@ -12,4 +12,7 @@ function restFunc($a) {
     return $res;
 }
 
+function multiplyNumb($a) {
+    return $a *=2;
+}
 addSum(2);
