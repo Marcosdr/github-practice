@@ -3,3 +3,11 @@ function addSum($a) {
 
     return $res;
 }
+
+function restFunc($a) {
+    $res = $a-=3;
+
+    return $res;
+}
+
+addSum(2);
