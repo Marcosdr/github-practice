@@ -1,1 +1,3 @@
 dontAddMe.txt
+*.log
+log
