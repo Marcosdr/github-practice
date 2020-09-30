@@ -3,12 +3,25 @@
 function addSum($a) {
     $res = $a+=3;
 
+    if ($a === 2) {
+        $b = 1;
+        if ($b === 3) {
+            $b = 4;
+        }
+    }
+
+    $food = [
+        "milk",
+        "buiscuit",
+        "cookies"
+    ];
+
     return $res;
+
 }
 
-function restFunc($a) {
-    $res = $a-=3;
-
+function sumOfThree($a) {
+    $res = $a - 4;
     return $res;
 }
 
