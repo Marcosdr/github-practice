@@ -15,3 +15,5 @@ The purpose I yet to know.
 This is how you deploy.
 
 ## How to Contribute
+
+Learn how to contribute to this repository.
