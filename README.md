@@ -10,4 +10,6 @@ Say you want to make changes. here is a
 
 ## Deployment
 
+This is how you deploy.
+
 ## How to Contribute
