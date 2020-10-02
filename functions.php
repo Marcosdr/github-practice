@@ -6,7 +6,7 @@ function addSum($a) {
     if ($a === 2) {
         $b = 1;
         if ($b === 3) {
-            $b = 4;
+            $b /= 4;
         }
     }
 
