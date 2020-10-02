@@ -17,3 +17,6 @@ This is how you deploy.
 ## How to Contribute
 
 Learn how to contribute to this repository.
+
+
+2020 - All rights reserved.
