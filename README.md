@@ -12,7 +12,7 @@ The purpose I yet to know.
 
 ## Deployment
 
-This is how you deploy. changes go here.
+This is how you deploy. wait for some good deploymnet.
 
 ## How to Contribute
 
