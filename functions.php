@@ -3,7 +3,7 @@
 function addSum($a) {
     $res = $a+=3;
 
-    if ($a === 2) {
+    if ($a === 4) {
         $b = 1;
         if ($b === 3) {
             $b *= 4;
