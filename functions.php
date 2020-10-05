@@ -8,7 +8,7 @@ function addSum($a) {
         if ($b === 3) {
             $b *= 2;
         }
-        return $b += 2;
+        return $b *= 1;
     }
 
     $food = [
