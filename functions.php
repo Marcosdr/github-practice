@@ -17,12 +17,13 @@ function addSum($a) {
         "cookies"
     ];
 
+    // Return some result
     return $res;
 
 }
 
 function sumOfThree($a) {
-    $res = $a - 4;
+    $res = $a + 5;
     return $res;
 }
 
