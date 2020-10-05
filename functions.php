@@ -13,7 +13,7 @@ function addSum($a) {
 
     $food = [
         "milk",
-        "buiscdfuit",
+        "buiscdfuit ooh bad",
         "cookies"
     ];
 
